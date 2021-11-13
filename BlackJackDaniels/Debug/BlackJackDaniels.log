@@ -1,0 +1,4 @@
+﻿  BlackJackDaniels.cpp
+C:\Users\Wize\Desktop\Учёба\BlackJackDaniels\BlackJackDaniels.cpp(77): warning C4715: Card::getSuitName: значение возвращается не при всех путях выполнения
+C:\Users\Wize\Desktop\Учёба\BlackJackDaniels\BlackJackDaniels.cpp(110): warning C4715: Card::getRankName: значение возвращается не при всех путях выполнения
+  BlackJackDaniels.vcxproj -> C:\Users\Wize\Desktop\Учёба\BlackJackDaniels\Debug\BlackJackDaniels.exe
