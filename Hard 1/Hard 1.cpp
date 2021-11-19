@@ -32,7 +32,7 @@ public:
 		if (temp == "-")
 			return;
 		else
-			patronymic=temp;		////
+			patronymic=temp;		
 	}
 
 	string GetFirstName() const { return first_name; }
@@ -101,10 +101,10 @@ public:
 		if (temp == '-')
 			return;
 		else
-			add=static_cast<int>(temp);	////
+			add=static_cast<int>(temp);	
 	}
 
-	static PhoneNumber ReadFromStream(istringstream& file)	////
+	static PhoneNumber ReadFromStream(istringstream& file)	
 	{
 		PhoneNumber phone;
 		if (file.peek() == ' ')
