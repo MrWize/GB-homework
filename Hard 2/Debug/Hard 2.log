@@ -1,0 +1,4 @@
+﻿  Hard 2.cpp
+C:\Users\Wize\Desktop\Учёба\Hard 2\Hard 2.cpp(45,16): warning C4244: инициализация: преобразование "__int64" в "long", возможна потеря данных
+C:\Users\Wize\Desktop\Учёба\Hard 2\Hard 2.cpp(63,16): warning C4244: инициализация: преобразование "__int64" в "long", возможна потеря данных
+  Hard 2.vcxproj -> C:\Users\Wize\Desktop\Учёба\Hard 2\Debug\Hard 2.exe
