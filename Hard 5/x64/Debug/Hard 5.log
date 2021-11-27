@@ -1,0 +1,26 @@
+﻿  Hard 5.cpp
+C:\Users\Wize\Desktop\Учёба\Hard 5\Hard 5.cpp(21,15): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Wize\Desktop\Учёба\Hard 5\Hard 5.cpp(52): message : выполняется компиляция ссылки на экземпляр шаблон функции "void uniqueWords<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>>(T &,T &)"
+          with
+          [
+              _Ty=std::string,
+              T=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::string>>>
+          ]
+D:\Programs\VisualStudio\VisualStudio\VC\Tools\MSVC\14.30.30705\include\utility(190,48): warning C4267: инициализация: преобразование из "size_t" в "_Ty1"; возможна потеря данных
+          with
+          [
+              _Ty1=const int
+          ]
+C:\Users\Wize\Desktop\Учёба\Hard 5\Hard 5.cpp(75): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<const int,std::string>::pair<unsigned __int64,std::string&,0>(_Other1 &&,_Other2) noexcept(false)"
+          with
+          [
+              _Other1=unsigned __int64,
+              _Other2=std::string &
+          ]
+C:\Users\Wize\Desktop\Учёба\Hard 5\Hard 5.cpp(75): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<const int,std::string>::pair<unsigned __int64,std::string&,0>(_Other1 &&,_Other2) noexcept(false)"
+          with
+          [
+              _Other1=unsigned __int64,
+              _Other2=std::string &
+          ]
+  Hard 5.vcxproj -> C:\Users\Wize\Desktop\Учёба\Hard 5\x64\Debug\Hard 5.exe
